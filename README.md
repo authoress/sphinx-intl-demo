@@ -1,3 +1,5 @@
+# Sphinx-intl demo project
+
 This repository contains a demo project that shows the result of using *sphinx-intl* to localize documentation created with Sphinx.
 
 The **zen** directory contains the demo project, translated from English into Russian and Portuguese, ready to be built.
