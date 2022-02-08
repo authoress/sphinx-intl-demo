@@ -19,7 +19,9 @@ To build the project on Windows:
 2. Go to the project directory.
 3. Run these commands in sequence:
    `sphinx-build -b html -D language=en -d _build/doctrees/en/ . _build/html/en/`
+   
    `sphinx-build -b html -D language=ru -d _build/doctrees/ru/ . _build/html/ru/`
+   
    `sphinx-build -b html -D language=pt_br -d _build/doctrees/pt_br/ . _build/html/pt_br/`
    
 For more information, see Step by step guide in English or in Russian.
