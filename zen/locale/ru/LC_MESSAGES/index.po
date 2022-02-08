@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, authoress
+# This file is distributed under the same license as the The Zen of Python
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Zen of Python \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-06 15:15+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../index.rst:2
+msgid "The Zen of Python"
+msgstr "Дзен Питона"
+
+#: ../../index.rst:10
+msgid "*By Tim Peters*"
+msgstr "*От Тима Петерса*"
+
+#: ../../index.rst:12
+msgid "Beautiful is better than ugly."
+msgstr "Красивое лучше уродливого."
+
+#: ../../index.rst:14
+msgid "Explicit is better than implicit."
+msgstr "Явное лучше неявного."
+
+#: ../../index.rst:16
+msgid "Simple is better than complex."
+msgstr "Простое лучше сложного."
+
+#: ../../index.rst:18
+msgid "Complex is better than complicated."
+msgstr "Сложное лучше мудреного."
+
+#: ../../index.rst:20
+msgid "Flat is better than nested."
+msgstr "Плоское лучше вложенного."
+
+#: ../../index.rst:22
+msgid "Sparse is better than dense."
+msgstr "Разреженное лучше плотного."
+
+#: ../../index.rst:24
+msgid "Readability counts."
+msgstr "Читаемость имеет значение."
+
+#: ../../index.rst:26
+msgid "Special cases aren't special enough to break the rules."
+msgstr "Особые случаи не настолько особы, чтобы нарушать правила."
+
+#: ../../index.rst:28
+msgid "Although practicality beats purity."
+msgstr "Хотя практичность лучше безупречности."
+
+#: ../../index.rst:30
+msgid "Errors should never pass silently."
+msgstr "Ошибки не должны проходить незамеченными."
+
+#: ../../index.rst:32
+msgid "Unless explicitly silenced."
+msgstr "Если только не игнорируются намеренно."
+
+#: ../../index.rst:34
+msgid "In the face of ambiguity, refuse the temptation to guess."
+msgstr "Наткнувшись на двусмысленность, откажись от соблазна угадать."
+
+#: ../../index.rst:36
+msgid "There should be one-- and preferably only one --obvious way to do it."
+msgstr "Должен быть один (и лучше единственный) очевидный способ сделать что-то."
+
+#: ../../index.rst:38
+msgid "Although that way may not be obvious at first unless you're Dutch."
+msgstr ""
+"Хотя поначалу этот способ может быть неочевиден, если только ты не "
+"голландец."
+
+#: ../../index.rst:40
+msgid "Now is better than never."
+msgstr "Сейчас лучше, чем никогда."
+
+#: ../../index.rst:42
+msgid "Although never is often better than \\*right\\* now."
+msgstr "Хотя никогда обычно лучше, чем \\*прямо\\* сейчас."
+
+#: ../../index.rst:44
+msgid "If the implementation is hard to explain, it's a bad idea."
+msgstr "Если реализацию трудно объяснить, то идея плоха."
+
+#: ../../index.rst:46
+msgid "If the implementation is easy to explain, it may be a good idea."
+msgstr "Если реализацию легко объяснить, то идея, возможно, хороша."
+
+#: ../../index.rst:48
+msgid "Namespaces are one honking great idea -- let's do more of those!"
+msgstr "Пространства имен -- это отличная идея, давайте пользоваться ею чаще!"
+
+#: ../../index.rst:52
+msgid "Translation info"
+msgstr "(Переведено authoress)"
+

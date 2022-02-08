@@ -1,0 +1,15 @@
+<div class = "switcherheading">
+{% set heading = {'en': 'Documentation language:', 'ru': 'Язык документации:', 'pt_br': 'Idioma da documentação:'} %}
+
+{{ heading[language] }}
+</div>
+
+<div class = "switcher">
+{% for lcode, lname in [('en', 'English'), ('ru', 'Русский'), ('pt_br', 'Português')] %}
+	{% if language != lcode %}
+	<a href = "../{{lcode}}/{{pagename}}.html">{{lname}}</a></br>
+	{% else %}
+	&#9654; {{lname}}</br>
+	{% endif %}
+{% endfor %}
+</div>
