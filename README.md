@@ -1,4 +1,4 @@
-This repository contains a demo project that shows the result of using sphinx-intl to localize documentation created with Sphinx.
+This repository contains a demo project that shows the result of using *sphinx-intl* to localize documentation created with Sphinx.
 
 The **zen** directory contains the demo project, translated from English into Russian and Portuguese, ready to be built.
 
@@ -15,9 +15,11 @@ Of course, you can install the exact packages I have installed in my demo enviro
 `pip install -r requirements.txt`
 
 To build the project on Windows:
+
 1. Run cmd.
 2. Go to the project directory.
-3. Run these commands in sequence:
+3. Run these commands in sequence: 
+   
    `sphinx-build -b html -D language=en -d _build/doctrees/en/ . _build/html/en/`
    
    `sphinx-build -b html -D language=ru -d _build/doctrees/ru/ . _build/html/ru/`
