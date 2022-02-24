@@ -1,6 +1,6 @@
 # Sphinx-intl demo project
 
-This repository contains a demo project that shows the result of using *sphinx-intl* to localize documentation created with Sphinx.
+This repository contains a demo project that shows the result of using *sphinx-intl* to [localize documentation created with Sphinx](http://sphinx-intl.geekwriter.ru/en/).
 
 The **zen** directory contains the demo project, translated from English into Russian and Portuguese, ready to be built.
 
@@ -28,4 +28,4 @@ To build the project on Windows:
    
    `sphinx-build -b html -D language=pt_br -d _build/doctrees/pt_br/ . _build/html/pt_br/`
    
-For more information, see Step by step guide in English or in Russian.
+For more information, see Step by step guide [in English](http://sphinx-intl.geekwriter.ru/en/) or [in Russian](http://sphinx-intl.geekwriter.ru/).
