@@ -27,6 +27,6 @@ To build the project on Windows:
    
    `sphinx-build -b html -D language=ru -d _build/doctrees/ru/ . _build/html/ru/`
    
-   `sphinx-build -b html -D language=pt_br -d _build/doctrees/pt_br/ . _build/html/pt_BR/`
+   `sphinx-build -b html -D language=pt_BR -d _build/doctrees/pt_BR/ . _build/html/pt_BR/`
    
 For more information, see Step by step guide [in English](http://sphinx-intl.geekwriter.ru/en/) or [in Russian](http://sphinx-intl.geekwriter.ru/).
