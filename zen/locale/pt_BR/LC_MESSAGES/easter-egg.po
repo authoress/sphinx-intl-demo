@@ -20,13 +20,13 @@ msgstr ""
 
 #: ../../easter-egg.rst:2
 msgid "Easter Egg"
-msgstr "Ovo de Páscoa"
+msgstr ""
 
 #: ../../easter-egg.rst:4
 msgid "In Python interactive prompt, run:"
-msgstr "No prompt interativo do Python, execute:"
+msgstr ""
 
 #: ../../easter-egg.rst:10
 msgid "Enjoy your easter egg!"
-msgstr "Aproveite seu ovo de páscoa!"
+msgstr ""
 
