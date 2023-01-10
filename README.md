@@ -3,7 +3,7 @@
 This repository contains a demo project that shows the result of using *sphinx-intl* to [localize documentation created with Sphinx](http://sphinx-intl.geekwriter.ru/en/).
 
 The **zen** directory contains the demo project, translated from English into Russian and Portuguese, ready to be built. 
-Note that easter-egg.po in zen/locale/pt_br/LC_MESSAGES is intentionally left untranslated so that you can [translate it with Transifex](http://sphinx-intl.geekwriter.ru/en/translate-text-in-po-files.html).
+Note that easter-egg.po in zen/locale/pt_br/LC_MESSAGES is intentionally left untranslated so that you can [translate it with Transifex](http://sphinx-intl.geekwriter.ru/en/translate-text-in-po-files.html#using-transifex).
 
 Before you build the demo documentation, be sure to install Sphinx:
 
